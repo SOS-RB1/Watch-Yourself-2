@@ -10,5 +10,6 @@ I use a timer in my job. Concentrating on the task I hardly move for several hou
 * WPF
 
 ![Watch yourself 2 demo](demo_timer_WPF_WY2.gif)
+
 ### PS
 I made my first timer in [Python](https://github.com/SOS-RB1/Watch-Yourself). The second similar [(WY2)](https://github.com/SOS-RB1/Watch-Yourself-2-WY2-/blob/main/WY2_app_pack.zip) I did in a different technology to see the difference while creating and learning new things.
